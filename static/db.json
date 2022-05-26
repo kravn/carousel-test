@@ -153,13 +153,6 @@
       "type": "slot"
     },
     {
-      "id": 18,
-      "name": "Stacks of Cheese",
-      "image": "https://ams-games.ttms.co/player/assets/images/games/1044.png",
-      "tags": [],
-      "type": "slot"
-    },
-    {
       "id": 19,
       "name": "Neutron Star",
       "image": "https://ams-games.ttms.co/player/assets/images/games/1031.png",
@@ -185,6 +178,13 @@
       "name": "Journey to the West",
       "image": "https://ams-games.ttms.co/player/assets/images/games/14446.png",
       "tags": ["new"],
+      "type": "slot"
+    },
+    {
+      "id": 23,
+      "name": "Stacks of Cheese",
+      "image": "https://ams-games.ttms.co/player/assets/images/games/1044.png",
+      "tags": [],
       "type": "slot"
     }
   ]
