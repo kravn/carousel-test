@@ -6,7 +6,8 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "json-serve": "json-server --watch static/db.json -p=30001"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
