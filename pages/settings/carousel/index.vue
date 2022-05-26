@@ -16,6 +16,7 @@
             max-width="150"
             :src="item.link"
             class="my-1"
+            :alt="item.title"
           ></v-img>
         </template>
       </v-data-table>

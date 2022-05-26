@@ -32,6 +32,8 @@
                 <div class="px-4 pt-2">
                   <v-img
                     :src="game.image"
+                    :lazy-src="game.image"
+                    :alt="game.name"
                   ></v-img>
                 </div>
                 <v-card-text

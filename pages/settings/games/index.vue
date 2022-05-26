@@ -16,6 +16,7 @@
             max-width="50"
             :src="item.image"
             class="my-1"
+            :alt="item.name"
           ></v-img>
         </template>
         <template v-slot:item.tags="{ item }">
