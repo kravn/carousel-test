@@ -1,0 +1,191 @@
+{
+  "carousel-images": [
+    {
+      "id": 1,
+      "title": "Proven Games",
+      "description": "Our games are proven on most of our major operators.",
+      "link": "https://external-preview.redd.it/Kz1STysrjBEhqxScrrfsKD7rotTz_fZCU2vCNsJx4EI.jpg?auto=webp&s=6a1464db2354bf0b4b3873a26fe80c8c51e2604b"
+    },
+    {
+      "id": 2, 
+      "title": "Fun Games",
+      "description": "We offer a wide range of games with broad appeal.", 
+      "link": "https://www.ytgraphics.com/wp-content/uploads/2016/10/dota2-minecraft-csgo.jpg" 
+    },
+    { 
+      "id": 3, 
+      "title": "Mobile Games",
+      "description": "Our top performing games are supported in HTML5", 
+      "link": "https://wallpaperteg.com/wp-content/uploads/2021/04/Dota-2-Iphone-Background-2-Wallpaper-Dota-Allstars-Wallpaper-And-Dota-2-Invoker-Wallpaper-Dota.jpg" 
+    },
+    { 
+      "id": 4, 
+      "title": "Top Performing Content",
+      "description": "Our high level security measures ensure your data is protected.", 
+      "link": "https://images.hdqwalls.com/wallpapers/dota-2-monsters-4k-mg.jpg" 
+    }
+  ],
+  "games": [
+    {
+      "id": 1,
+      "name": "Candy Gold",
+      "image": "https://ams-games.ttms.co/player/assets/images/games/1179.png",
+      "tags": ["featured"],
+      "type": "slot"
+    },
+    {
+      "id": 2,
+      "name": "Mystic Bear Xtra Hold",
+      "image": "https://ams-games.ttms.co/player/assets/images/games/1192.png",
+      "tags": ["new"],
+      "type": "slot"
+    },
+    {
+      "id": 3,
+      "name": "The Crown",
+      "image": "https://ams-games.ttms.co/player/assets/images/games/1187.png",
+      "tags": ["new", "featured"],
+      "type": "slot"
+    },
+    {
+      "id": 4,
+      "name": "Book of Easter",
+      "image": "https://ams-games.ttms.co/player/assets/images/games/1194.png",
+      "tags": ["featured"],
+      "type": "slot"
+    },
+    {
+      "id": 5,
+      "name": "Jelly Mania XtraSteak",
+      "image": "https://ams-games.ttms.co/player/assets/images/games/1190.png",
+      "tags": ["new"],
+      "type": "slot"
+    },
+    {
+      "id": 6,
+      "name": "Sword Warriors",
+      "image": "https://ams-games.ttms.co/player/assets/images/games/1164.png",
+      "tags": ["featured"],
+      "type": "slot"
+    },
+    {
+      "id": 7,
+      "name": "Pirate Treasure",
+      "image": "https://ams-games.ttms.co/player/assets/images/games/1181.png",
+      "tags": ["new"],
+      "type": "slot"
+    },
+    {
+      "id": 8,
+      "name": "Sea God",
+      "image": "https://ams-games.ttms.co/player/assets/images/games/1169.png",
+      "tags": [],
+      "type": "slot"
+    },
+    {
+      "id": 9,
+      "name": "Triple Luck",
+      "image": "https://ams-games.ttms.co/player/assets/images/games/1166.png",
+      "tags": ["new"],
+      "type": "slot"
+    },
+    {
+      "id": 10,
+      "name": "Frogs 'n Flies 2",
+      "image": "https://ams-games.ttms.co/player/assets/images/games/1082.png",
+      "tags": ["featured"],
+      "type": "slot"
+    },
+    {
+      "id": 11,
+      "name": "Golden Pig",
+      "image": "https://ams-games.ttms.co/player/assets/images/games/1133.png",
+      "tags": ["new"],
+      "type": "slot"
+    },
+    {
+      "id": 12,
+      "name": "Kung Fu Showdown",
+      "tags": [],
+      "image": "https://ams-games.ttms.co/player/assets/images/games/1043.png",
+      "type": "slot"
+    },
+    {
+      "id": 13,
+      "name": "Baccarat NC",
+      "image": "https://ams-games.ttms.co/player/assets/images/games/1172.png",
+      "tags": ["new", "featured"],
+      "type": "table"
+    },
+    {
+      "id": 14,
+      "name": "Andar Bahar",
+      "image": "https://ams-games.ttms.co/player/assets/images/games/1171.png",
+      "tags": [],
+      "type": "table"
+    },
+    {
+      "id": 15,
+      "name": "Super Kids",
+      "image": "https://ams-games.ttms.co/player/assets/images/games/1072.png",
+      "tags": [],
+      "type": "slot"
+    },
+    {
+      "id": 16,
+      "name": "Hot Volcano",
+      "image": "https://ams-games.ttms.co/player/assets/images/games/1061.png",
+      "tags": [],
+      "type": "table"
+    },
+    {
+      "id": 17,
+      "name": "Huluwa",
+      "image": "https://ams-games.ttms.co/player/assets/images/games/1078.png",
+      "tags": [],
+      "type": "slot"
+    },
+    {
+      "id": 18,
+      "name": "Five Pirates",
+      "image": "https://ams-games.ttms.co/player/assets/images/games/1067.png",
+      "tags": ["featured"],
+      "type": "slot"
+    },
+    {
+      "id": 18,
+      "name": "Stacks of Cheese",
+      "image": "https://ams-games.ttms.co/player/assets/images/games/1044.png",
+      "tags": [],
+      "type": "slot"
+    },
+    {
+      "id": 19,
+      "name": "Neutron Star",
+      "image": "https://ams-games.ttms.co/player/assets/images/games/1031.png",
+      "tags": [],
+      "type": "slot"
+    },
+    {
+      "id": 20,
+      "name": "Silver Lion",
+      "image": "https://ams-games.ttms.co/player/assets/images/games/1057.png",
+      "tags": [],
+      "type": "slot"
+    },
+    {
+      "id": 21,
+      "name": "The Hopping Dead",
+      "image": "https://ams-games.ttms.co/player/assets/images/games/1036.png",
+      "tags": ["new"],
+      "type": "slot"
+    },
+    {
+      "id": 22,
+      "name": "Journey to the West",
+      "image": "https://ams-games.ttms.co/player/assets/images/games/14446.png",
+      "tags": ["new"],
+      "type": "slot"
+    }
+  ]
+}

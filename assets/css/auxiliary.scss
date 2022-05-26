@@ -1,0 +1,67 @@
+.game-name {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.slider-container {
+  position: relative;
+}
+
+.slider-nav {
+  position: absolute;
+  height: 100%;
+  &.next-btn {
+    right: -35px;
+    width: 60px;
+    // background: rgba(0,0,0,0);
+    // background: linear-gradient(90deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 100%);
+  }
+  &.prev-btn {
+    left: -30px;
+    width: 60px;
+    // background: rgba(0,0,0,0);
+    // background: linear-gradient(270deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 100%);
+  }
+  svg {
+    padding: 10px;
+    top: 35%;
+    position: absolute;
+    cursor: pointer;
+    background-color: darken($BACKGROUND-1, 10%) !important;
+    border-radius: 100%;
+    height: 30px;
+    width: 30px;
+    &:hover {
+      background-color: darken($BACKGROUND-1, 15%) !important;
+    }
+  }
+}
+
+.text-shadowed {
+  text-shadow: 2px 2px 10px rgba(0,0,0,0.8);
+}
+
+.v-main {
+  background-color: $BACKGROUND-1;
+}
+
+.game-section {
+  background-color: lighten($BACKGROUND-1, 10%) !important;
+
+  .game-section-title {
+    color: $PRIMARY-2 !important;
+  }
+
+  .game-card {
+    background-color: darken($BACKGROUND-1, 5%) !important;
+  }
+}
+
+.e-carousel-toolbar {
+  background-color: darken($BACKGROUND-1, 10%) !important;
+}
+
+.v-navigation-drawer {
+  background-color: darken($BACKGROUND-1, 15%) !important;
+}
